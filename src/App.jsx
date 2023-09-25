@@ -1,15 +1,15 @@
 
 import './App.css'
+import NavBar from './components/NavBar'
+// import MenuBar from './components/MenuBar'
+//import Logo from './components/Logo'
 
 function App() {
 
 
   return (
     <>
-      <div>
-        <h1>Testando o git</h1>
-        <p>Estou aprendendo <b>GIT</b></p>
-      </div>
+      <NavBar/>
       
     </>
   )
